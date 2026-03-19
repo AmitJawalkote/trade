@@ -18,7 +18,7 @@ In this project, I implemented a stock watchlist where I can reorder items using
 I started by building a simple stock list screen and then introduced Bloc to manage the state.
 
 * I separated events, states, and business logic using Bloc
-* I created an dit mode to handle reordering without affecting the original list
+* I created an copy array to handle reordering without affecting the original list
 * I used ReorderableListView for drag-and-drop functionality
 * I maintained a copy of the original list to support cancel/rollback
 * I handled back navigation using PopScope to prevent blank screen issues
