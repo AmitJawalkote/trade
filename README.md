@@ -51,4 +51,7 @@ lib/
 * **presentation/** → UI screens
 * **models/** → Data models
 
+project web app hosting url- https://amitjawalkote.github.io/trade_021_assignment/
+
+github repo - https://github.com/AmitJawalkote/trade
 Thanks for reviewing my submission 
